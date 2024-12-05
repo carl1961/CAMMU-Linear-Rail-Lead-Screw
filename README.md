@@ -4,5 +4,5 @@ Universal multi material filament system, inspired by ERCF and tradrack systems 
 Please feel free to contribute towards future projects and developments
 
 # Updates
-05-12-2024
+05-12-2024:
 Add in basic instructions for assembly
