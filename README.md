@@ -29,3 +29,6 @@ Please feel free to contribute towards future projects and developments
       - This is a fantastic toolhead sensor and can easily be wired up to your existing toolhead board if you have one.
   - You also require a filament cutter on your toolhead as
     - The one we recommend and have tested can be found on Prusa Printables [***HERE***](https://www.printables.com/model/622289-filament-cutter-for-sherpa-and-sherpa-patterned-ex/files)
+
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="camnefdt" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Support CAMMU" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
