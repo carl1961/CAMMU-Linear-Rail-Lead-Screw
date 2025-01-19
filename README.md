@@ -6,10 +6,18 @@ A full custome controller and DIY controller is currently in the works and to be
 Please feel free to contribute towards future projects and developments
 
 ### Updates
+- 19-01-2025:
+  - Added modified selector body to prevent premature wear of housing body.
+  - Added slots to limit switch mounting on selector body.
+  - Added strengthened selector drive end to limit unnecesary flex.
+  - Moved extrude drive end idler pulley inward to make system more compact
+  - Added more material on the bottom gate pivot ears to strengthen.
+  - Modified to match new bottom gate ears as well as slotted limit switch mounting holes.
+- 08-12-2024:
+  - Added Build FAQ 
 - 05-12-2024:
   - Add in basic instructions for assembly
-- 08-12-2024:
-  - Added Build FAQ below 
+
 
 ### Build FAQ
 - For the software control aspect of CAMMU, we decided to not reinvent the wheel and make use of the fantastic existing software called **Happy Hare** by moggieuk. You can find his github page [***HERE***](https://github.com/moggieuk)
