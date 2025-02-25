@@ -5,6 +5,8 @@ A full custome controller and DIY controller is currently in the works and to be
 
 Please feel free to contribute towards future projects and developments
 
+[logo]: https://github.com/camnefdt/CAMMU/edit/main/CAMMU_render.jpg
+
 ### Updates
 - 19-01-2025:
   - Added modified selector body to prevent premature wear of housing body.
