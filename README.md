@@ -5,6 +5,8 @@ A full custome controller and DIY controller is currently in the works and to be
 
 Please feel free to contribute towards future projects and developments
 
+![alt text][image]
+
 [image]: https://github.com/camnefdt/CAMMU/blob/main/CAMMU_render.jpg
 
 ### Updates
