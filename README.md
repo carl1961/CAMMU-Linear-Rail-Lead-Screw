@@ -10,6 +10,8 @@ Please feel free to contribute towards future projects and developments
 [image]: https://github.com/camnefdt/CAMMU/blob/main/CAMMU_render.jpg
 
 ### Updates
+- 12-03-2025:
+  - Added build manual V1.
 - 19-01-2025:
   - Added modified selector body to prevent premature wear of housing body.
   - Added slots to limit switch mounting on selector body.
