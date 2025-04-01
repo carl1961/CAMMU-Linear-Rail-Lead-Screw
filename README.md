@@ -11,7 +11,7 @@ Please feel free to contribute towards future projects and developments
 
 ### Updates
 - 01-04-2025:
-  -Added modified top gate with thickened rear section for limit switch mount and enlarged screw holes for m3 screws.
+  - Added modified top gate with thickened rear section for limit switch mount and enlarged screw holes for m3 screws.
 - 12-03-2025:
   - Added build manual V1.
 - 19-01-2025:
