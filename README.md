@@ -39,5 +39,6 @@ Please feel free to contribute towards future projects and developments
     - The one we recommend and have tested can be found on Prusa Printables [***HERE***](https://www.printables.com/model/622289-filament-cutter-for-sherpa-and-sherpa-patterned-ex/files)
 
 
-
+buy me a coffee
+https://www.buymeacoffee.com/camnefdt
 <a href="https://www.buymeacoffee.com/camnefdt"><img src="https://img.buymeacoffee.com/button-api/?text=Support CAMMU&emoji=&slug=camnefdt&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
