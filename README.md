@@ -7,7 +7,7 @@ Please feel free to contribute towards future projects and developments
 
 ![alt text][image]
 
-[image]: https://github.com/camnefdt/CAMMU/blob/main/CAMMU_render.jpg
+[image]: [https://github.com/camnefdt/CAMMU/blob/main/pics/IMG_20250531_124000.jpg]
 
 ### Updates
 - 01-04-2025:
