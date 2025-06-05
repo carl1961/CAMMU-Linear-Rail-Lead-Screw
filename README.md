@@ -9,6 +9,10 @@ Please feel free to contribute towards future projects and developments
 
 [image]: https://github.com/camnefdt/CAMMU/blob/main/pics/IMG_20250531_124000.jpg
 ### Updates
+- 05-06-2025:
+  - Added strengthened drive ends
+  - Added slightly adjusted tension arm to align better on gate.
+  - Added completed project photo.
 - 01-04-2025:
   - Added modified top gate with thickened rear section for limit switch mount and enlarged screw holes for m3 screws.
 - 12-03-2025:
@@ -27,6 +31,7 @@ Please feel free to contribute towards future projects and developments
 
 
 ### Build FAQ
+- For the buffer, the ERCT (Cotton tail) buffer is a perfect fit. [***HERE***](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/ERCT_Buffer)
 - For the software control aspect of CAMMU, we decided to not reinvent the wheel and make use of the fantastic existing software called **Happy Hare** by moggieuk. You can find his github page [***HERE***](https://github.com/moggieuk)
   - You are requied to [***install Happy Hare***](https://github.com/moggieuk/Happy-Hare/wiki/Installation) on your existing klipper installation.
   - In due time we will compile a short guide on the installation and configuration of **Happy Hare**
@@ -39,5 +44,5 @@ Please feel free to contribute towards future projects and developments
 
 
 buy me a coffee
-https://www.buymeacoffee.com/camnefdt
+[***HERE***](https://www.buymeacoffee.com/camnefdt)
 <a href="https://www.buymeacoffee.com/camnefdt"><img src="https://img.buymeacoffee.com/button-api/?text=Support CAMMU&emoji=&slug=camnefdt&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
