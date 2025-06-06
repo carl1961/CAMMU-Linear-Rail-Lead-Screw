@@ -1,4 +1,5 @@
-# CAMMU
+# CAMMU - V1
+
 CAMMU is a universal multi material filament system, inspired by ERCF and Tradrack systems but designed to use no servo at all and keep components as accessible as possible.
 
 A full custome controller and DIY controller is currently in the works and to be released soon. 2 stepper ports and 6 endstop connections are all that is needed if you build the 4 gate version.
@@ -9,7 +10,8 @@ Please feel free to contribute towards future projects and developments
 
 [image]: https://github.com/camnefdt/CAMMU/blob/main/pics/IMG_20250531_124000.jpg
 ### Updates
-- 06-0602025:
+- 06-06-2025:
+    - CAMMU Full release V1
     - Added modified ERCT-Cotton tail buffer files
     - **NOTE** The Cotton tail end cap with electronics was modified to fit BTT mmb V2 which is different size and mounting hole to MMB v1.
 - 05-06-2025:
