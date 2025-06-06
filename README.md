@@ -9,6 +9,9 @@ Please feel free to contribute towards future projects and developments
 
 [image]: https://github.com/camnefdt/CAMMU/blob/main/pics/IMG_20250531_124000.jpg
 ### Updates
+- 06-0602025:
+  -Added modified ERCT-Cotton tail buffer files
+  -**NOTE** The Cotton tail end cap with electronics was modified to fit BTT mmb V2 which is different size and mounting hole to MMB v1.
 - 05-06-2025:
   - Added strengthened drive ends
   - Added slightly adjusted tension arm to align better on gate.
