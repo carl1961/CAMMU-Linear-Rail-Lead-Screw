@@ -8,7 +8,7 @@ Please feel free to contribute towards future projects and developments
 
 ![alt text][image]
 
-[image]: https://github.com/camnefdt/CAMMU/blob/main/pics/IMG_20250531_124000.jpg
+[image]: https://github.com/camnefdt/CAMMU/blob/main/V1_Release/pics/IMG_20250531_124000.jpg
 ### Updates
 - 06-06-2025:
     - CAMMU Full release V1
