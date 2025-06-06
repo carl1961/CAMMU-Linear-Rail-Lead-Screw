@@ -1,0 +1,40 @@
+Basic Instructions
+
+Gate:
+1) All parts are already oriented for printing, print with 3 walls, 3 top and bottom layers and 20% infill. Supports enabled.
+2) Print from ABS preferably
+3) Use a 3mm and 5mm drill bit to clean holes at the hinge and on top gate for idler bearing,
+4) Fit 1x625 bearing into side of bottom gate)
+5) Press  3x21mm rod in to the top gate for the selector to run against. 
+6) Press 3x21mm rod in through the hinge section of the gate ensuring that the gates can pivot easily
+7) Fit 1x625 bearing on top gate with a 5x12mm rod. 
+8) Fit the M5x12 and M5 T-nut in the bottom gate.
+9) Fit 2 10x2mm magnets each in the top and bottom gate, ensuring they are apposing each other.
+10) Thread in M3x16 bolt from the bottom gate into the top (This will function as a limter)
+11) Drop in a 4mm bearing, and fit the limit switch using 2 M3X6 bolt from the back of the gate. The bolts will thread directly into the limit switch and the gate might require some opening the 2 holes.
+
+Selector:
+1) Fit m3 heatsert 
+2) Fit 2x LM8UU bearings.
+3) Take 1XECAS4 fitting, remove the rubber gromet and press fit into selector
+4) Take the selector arm and fit 1x625 bearing using an M5x10 bolt
+5) Fit selector arm sliding it up from the bottom using a 21x3mm shaft
+6) Fit Spring and M3x25 bolt with a washer if necessary through selector arm.
+7) Fit 2x 4mm steel balls and the limit switch wiuth 2x m3x6mm screws
+
+Full assembly
+1) Fit gates onto 2020 extrusion spacing approx 1mm apart.
+2) Fit 2 M3 heatserts into coupling and slide over stepper shaft.
+3) Slide 5mm shaft into coupler and tighten coupler with 2 M3x10 bolts
+4) Fit extruder end frame on 2020 extrusion using 2 M5x12 bolts and 2 M5 T-nuts
+5) Place extruder gear inside each gate with grub screws towards bearing in gate.
+6) Slide the 5mm rod through each gate placing the extruder gear on the rod as you push it through. Slide it all the way until the stepper is against the extruder frame. 
+7) Use 3 M3x6 bolts to tighten the stepper to the frame.
+8) Fit 2XF695 bearings with a 5x17mm rod.
+9) Fit selector side frame with 1 M5x12 bolt and T-nut spaced approc 25mm from the first gate.
+10) Fit the end stop limit switch with 2 M3x10 bolts.
+11) Loosely fit the stepper with 20T pulley
+12) Slide 2 8mm rods through selector side first and slide selector over rods before pushing them all the way through and into the extruder side frame
+13) Fit GT2 belt 
+14) tension belt using the selector stepper slotted mounting.
+
