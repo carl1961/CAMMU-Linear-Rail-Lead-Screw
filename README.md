@@ -11,6 +11,7 @@ Please feel free to contribute towards future projects and developments
 ### Updates
 - 06-0602025:
   -Added modified ERCT-Cotton tail buffer files
+  
   -**NOTE** The Cotton tail end cap with electronics was modified to fit BTT mmb V2 which is different size and mounting hole to MMB v1.
 - 05-06-2025:
   - Added strengthened drive ends
