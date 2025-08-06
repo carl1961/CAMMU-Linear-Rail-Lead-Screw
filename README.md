@@ -10,6 +10,8 @@ Please feel free to contribute towards future projects and developments
 
 [image]: https://github.com/camnefdt/CAMMU/blob/main/V1_Release/pics/IMG_20250531_124000.jpg
 ### Updates
+- 06-08-2025:
+    - Added CAMMU Gate Spacer to make the gate spacing a lot simpler
 - 06-06-2025:
     - CAMMU Full release V1
     - Fixed folder structure and renamed old Beta to "CAMMU_Old"
