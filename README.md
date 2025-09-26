@@ -4,7 +4,9 @@
 
 Step and Stl files in Linear Rail, feel free to improve.
 
-
+Front Selector 250mm Linear rail MGN9 9mm MGN9C block
+Top back Selector  300mm Linear MGN9 9mm MGN9C block
+Lead Screw 270mm 
 
 
 
