@@ -1,6 +1,9 @@
 # CAMMU with Linear Rail Lead Screw
 
-<img width="1520" height="838" alt="CAMMU-Linear-Rail-Lead-Screw-10-Color v10" src="https://github.com/user-attachments/assets/5411811f-13a6-44bc-bb4a-70d9f207fb3b" />
+<img width="1520" height="888" alt="CAMMU-Linear-Rail-Lead-Screw-10-Color v25" src="https://github.com/user-attachments/assets/1fa88703-018c-4230-adf2-d6014e59e871" />
+
+Step and Stl files in Linear Rail, feel free to improve.
+
 
 
 
