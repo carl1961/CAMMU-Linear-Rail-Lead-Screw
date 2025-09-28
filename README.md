@@ -15,6 +15,8 @@ Made some changes to the original Gate, added bearings on the henges and made mo
 <img width="765" height="756" alt="image" src="https://github.com/user-attachments/assets/8a4fe7e6-5908-481c-b4ed-91a4c0ff2f8b" />
 
 
+![WIN_20250928_05_07_51_Pro](https://github.com/user-attachments/assets/01756498-ee7e-4ad8-91a8-9aad2f731c5f)
+
 You must use slider nuts instead of the hamer head nuts, so you will be able to hook the top. This also gave mor support for when the selector presses down to clamp filament.
 
 lead screw came off a old anycubic I3  P, 
