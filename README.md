@@ -10,9 +10,12 @@ Lead Screw 270mm
 
 # Progress
 
-![WIN_20250928_05_07_51_Pro](https://github.com/user-attachments/assets/01756498-ee7e-4ad8-91a8-9aad2f731c5f)
+
 
 ![WIN_20250928_00_52_30_Pro](https://github.com/user-attachments/assets/8f9821e5-7f48-49d0-b393-6762a8c5e251)
+
+
+![WIN_20250928_05_07_51_Pro](https://github.com/user-attachments/assets/01756498-ee7e-4ad8-91a8-9aad2f731c5f)
 
 
 Made some changes to the original Gate, added bearings on the henges and made mounting in front , makes it easer to remove if need to be repaired. made some other minor changes too.
