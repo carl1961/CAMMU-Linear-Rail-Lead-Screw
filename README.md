@@ -2,7 +2,7 @@
 
 <img width="1520" height="888" alt="CAMMU-Linear-Rail-Lead-Screw-10-Color v25" src="https://github.com/user-attachments/assets/1fa88703-018c-4230-adf2-d6014e59e871" />
 
-First Thanks  to @camnefdt/CAMMU https://github.com/camnefdt/CAMMU   for his work and allowing us to have fun.
+First Thanks  to  camnefdt/CAMMU https://github.com/camnefdt/CAMMU   for his work and allowing us to have fun.
 
 Step and Stl files in Linear Rail, feel free to improve.
 
