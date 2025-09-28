@@ -10,6 +10,11 @@ Lead Screw 270mm
 
 # Progress
 
+![WIN_20250928_05_07_51_Pro](https://github.com/user-attachments/assets/01756498-ee7e-4ad8-91a8-9aad2f731c5f)
+
+![WIN_20250928_00_52_30_Pro](https://github.com/user-attachments/assets/8f9821e5-7f48-49d0-b393-6762a8c5e251)
+
+
 Made some changes to the original Gate, added bearings on the henges and made mounting in front , makes it easer to remove if need to be repaired. made some other minor changes too.
 
 <img width="765" height="756" alt="image" src="https://github.com/user-attachments/assets/8a4fe7e6-5908-481c-b4ed-91a4c0ff2f8b" />
@@ -23,9 +28,6 @@ lead screw came off a old anycubic I3  P,
 <img width="773" height="782" alt="image" src="https://github.com/user-attachments/assets/d09b37e0-8488-44d7-bbad-cbcd3f30f8c8" />
 
 
-![WIN_20250928_05_07_51_Pro](https://github.com/user-attachments/assets/01756498-ee7e-4ad8-91a8-9aad2f731c5f)
-
-![WIN_20250928_00_52_30_Pro](https://github.com/user-attachments/assets/8f9821e5-7f48-49d0-b393-6762a8c5e251)
 
 <img width="946" height="700" alt="image" src="https://github.com/user-attachments/assets/8101622d-6813-4b6f-835e-70113ce7019c" />
 
