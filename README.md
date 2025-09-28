@@ -8,6 +8,23 @@ Front Selector 250mm Linear rail MGN9 9mm MGN9C block
 Top back Selector  300mm Linear MGN9 9mm MGN9C block
 Lead Screw 270mm 
 
+# Progress
+
+Made some changes to the original Gate, added bearings on the henges and made mounting in front , makes it easer to remove if need to be repaired. made some other minor changes too.
+
+<img width="765" height="756" alt="image" src="https://github.com/user-attachments/assets/8a4fe7e6-5908-481c-b4ed-91a4c0ff2f8b" />
+
+
+You must use slider nuts instead of the hamer head nuts, so you will be able to hook the top. This also gave mor support for when the selector presses down to clamp filament.
+
+lead screw came off a old anycubic I3  P, 
+
+
+<img width="773" height="782" alt="image" src="https://github.com/user-attachments/assets/d09b37e0-8488-44d7-bbad-cbcd3f30f8c8" />
+
+
+
+![WIN_20250928_00_52_30_Pro](https://github.com/user-attachments/assets/8f9821e5-7f48-49d0-b393-6762a8c5e251)
 
 
 # CAMMU - V1
