@@ -2,6 +2,8 @@
 
 <img width="1520" height="888" alt="CAMMU-Linear-Rail-Lead-Screw-10-Color v25" src="https://github.com/user-attachments/assets/1fa88703-018c-4230-adf2-d6014e59e871" />
 
+First Thanks  to  camnefdt/CAMMU https://github.com/camnefdt/CAMMU   for his work and allowing us to have fun.
+
 Step and Stl files in Linear Rail, feel free to improve.
 
 Front Selector 250mm Linear rail MGN9 9mm MGN9C block
@@ -9,6 +11,14 @@ Top back Selector  300mm Linear MGN9 9mm MGN9C block
 Lead Screw 270mm 
 
 # Progress
+
+
+
+![WIN_20250928_00_52_30_Pro](https://github.com/user-attachments/assets/8f9821e5-7f48-49d0-b393-6762a8c5e251)
+
+
+![WIN_20250928_05_07_51_Pro](https://github.com/user-attachments/assets/01756498-ee7e-4ad8-91a8-9aad2f731c5f)
+
 
 Made some changes to the original Gate, added bearings on the henges and made mounting in front , makes it easer to remove if need to be repaired. made some other minor changes too.
 
@@ -24,7 +34,8 @@ lead screw came off a old anycubic I3  P,
 
 
 
-![WIN_20250928_00_52_30_Pro](https://github.com/user-attachments/assets/8f9821e5-7f48-49d0-b393-6762a8c5e251)
+<img width="946" height="700" alt="image" src="https://github.com/user-attachments/assets/8101622d-6813-4b6f-835e-70113ce7019c" />
+
 
 
 # CAMMU - V1
