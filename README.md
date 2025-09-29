@@ -16,6 +16,9 @@ Lead Screw 270mm
 
 ![WIN_20250928_00_52_30_Pro](https://github.com/user-attachments/assets/8f9821e5-7f48-49d0-b393-6762a8c5e251)
 
+New Gate needs Slide nuts with these 12mm dummy slider spacers to keep nuts within range to bolt gates.
+
+![WIN_20250929_01_24_08_Pro](https://github.com/user-attachments/assets/560bbdc8-5c72-4cf4-92b1-bbb4e54d005d)
 
 ![WIN_20250928_05_07_51_Pro](https://github.com/user-attachments/assets/01756498-ee7e-4ad8-91a8-9aad2f731c5f)
 
