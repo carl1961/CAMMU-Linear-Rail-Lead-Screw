@@ -2,9 +2,6 @@
 
 <img width="1520" height="888" alt="CAMMU-Linear-Rail-Lead-Screw " src="https://github.com/user-attachments/assets/dfac483d-76f0-4050-a7f4-323708bbf56c" />
 
-
-
-
 First Thanks  to  camnefdt/CAMMU https://github.com/camnefdt/CAMMU   for his work and allowing us to have fun.
 
 Step and Stl files in Linear Rail, feel free to improve.
@@ -27,7 +24,7 @@ Made some changes to the original Gate, added bearings on the henges and made mo
 
 ![WIN_20250929_23_52_04_Pro](https://github.com/user-attachments/assets/9394a5b5-c02b-4142-924f-41686dbe2c18)  ![WIN_20250930_00_02_21_Pro](https://github.com/user-attachments/assets/b650092a-18fe-4a59-91c8-4bf8301b7ce5)
 
-![WIN_20250930_00_03_26_Pro](https://github.com/user-attachments/assets/512dfdc1-2d43-4661-9525-d4e775a3911f)  ![WIN_20250930_00_03_37_Pro](https://github.com/user-attachments/assets/87eb68cc-bba2-4314-a83e-1ec41bd7d67c)
+![WIN_20250930_00_03_26_Pro](https://github.com/user-attachments/assets/512dfdc1-2d43-4661-9525-d4e775a3911f)  
 
 
 <img width="765" height="756" alt="image" src="https://github.com/user-attachments/assets/8a4fe7e6-5908-481c-b4ed-91a4c0ff2f8b" />
