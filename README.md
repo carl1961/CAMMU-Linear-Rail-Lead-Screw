@@ -2,6 +2,9 @@
 
 <img width="1520" height="888" alt="CAMMU-Linear-Rail-Lead-Screw " src="https://github.com/user-attachments/assets/dfac483d-76f0-4050-a7f4-323708bbf56c" />
 
+
+
+
 First Thanks  to  camnefdt/CAMMU https://github.com/camnefdt/CAMMU   for his work and allowing us to have fun.
 
 Step and Stl files in Linear Rail, feel free to improve.
@@ -12,15 +15,23 @@ Lead Screw 270mm
 
 # Progress
 
-
-
 ![WIN_20250928_00_52_30_Pro](https://github.com/user-attachments/assets/8f9821e5-7f48-49d0-b393-6762a8c5e251)
+
+![WIN_20250930_00_51_32_Pro](https://github.com/user-attachments/assets/cb030c2b-5e39-4e97-a1c5-9590644be53d)
 
 New Gate needs Slide nuts with these 12mm dummy slider spacers to keep nuts within range to bolt gates.
 
 ![WIN_20250929_01_24_08_Pro](https://github.com/user-attachments/assets/560bbdc8-5c72-4cf4-92b1-bbb4e54d005d)
 
-![WIN_20250928_05_07_51_Pro](https://github.com/user-attachments/assets/01756498-ee7e-4ad8-91a8-9aad2f731c5f)
+![WIN_20250929_23_52_04_Pro](https://github.com/user-attachments/assets/9394a5b5-c02b-4142-924f-41686dbe2c18)  ![WIN_20250930_00_02_21_Pro](https://github.com/user-attachments/assets/b650092a-18fe-4a59-91c8-4bf8301b7ce5)
+
+![WIN_20250930_00_03_26_Pro](https://github.com/user-attachments/assets/512dfdc1-2d43-4661-9525-d4e775a3911f)  ![WIN_20250930_00_03_37_Pro](https://github.com/user-attachments/assets/87eb68cc-bba2-4314-a83e-1ec41bd7d67c)
+
+   
+
+
+
+
 
 
 Made some changes to the original Gate, added bearings on the henges and made mounting in front , makes it easer to remove if need to be repaired. made some other minor changes too.
