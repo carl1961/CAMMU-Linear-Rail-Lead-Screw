@@ -1,6 +1,6 @@
-# CAMMU with Linear Rail Lead Screw
+# CAMMU with Linear Rail Lead Screw and front mounted customized CAMUU Gates
 
-<img width="1520" height="888" alt="CAMMU-Linear-Rail-Lead-Screw-10-Color v25" src="https://github.com/user-attachments/assets/1fa88703-018c-4230-adf2-d6014e59e871" />
+<img width="1520" height="888" alt="CAMMU-Linear-Rail-Lead-Screw " src="https://github.com/user-attachments/assets/dfac483d-76f0-4050-a7f4-323708bbf56c" />
 
 First Thanks  to  camnefdt/CAMMU https://github.com/camnefdt/CAMMU   for his work and allowing us to have fun.
 
@@ -12,30 +12,30 @@ Lead Screw 270mm
 
 # Progress
 
-
-
 ![WIN_20250928_00_52_30_Pro](https://github.com/user-attachments/assets/8f9821e5-7f48-49d0-b393-6762a8c5e251)
 
+![WIN_20250930_00_51_32_Pro](https://github.com/user-attachments/assets/cb030c2b-5e39-4e97-a1c5-9590644be53d)
 
-![WIN_20250928_05_07_51_Pro](https://github.com/user-attachments/assets/01756498-ee7e-4ad8-91a8-9aad2f731c5f)
+New Gate needs Slide nuts with these 12mm dummy slider spacers to keep nuts within range to bolt gates.
 
+![WIN_20250929_01_24_08_Pro](https://github.com/user-attachments/assets/560bbdc8-5c72-4cf4-92b1-bbb4e54d005d)
 
 Made some changes to the original Gate, added bearings on the henges and made mounting in front , makes it easer to remove if need to be repaired. made some other minor changes too.
 
-<img width="765" height="756" alt="image" src="https://github.com/user-attachments/assets/8a4fe7e6-5908-481c-b4ed-91a4c0ff2f8b" />
+![WIN_20250929_23_52_04_Pro](https://github.com/user-attachments/assets/9394a5b5-c02b-4142-924f-41686dbe2c18)  ![WIN_20250930_00_02_21_Pro](https://github.com/user-attachments/assets/b650092a-18fe-4a59-91c8-4bf8301b7ce5)
 
+![WIN_20250930_00_03_26_Pro](https://github.com/user-attachments/assets/512dfdc1-2d43-4661-9525-d4e775a3911f)  
+
+
+<img width="765" height="756" alt="image" src="https://github.com/user-attachments/assets/8a4fe7e6-5908-481c-b4ed-91a4c0ff2f8b" />
 
 You must use slider nuts instead of the hamer head nuts, so you will be able to hook the top. This also gave mor support for when the selector presses down to clamp filament.
 
 lead screw came off a old anycubic I3  P, 
 
-
 <img width="773" height="782" alt="image" src="https://github.com/user-attachments/assets/d09b37e0-8488-44d7-bbad-cbcd3f30f8c8" />
 
-
-
 <img width="946" height="700" alt="image" src="https://github.com/user-attachments/assets/8101622d-6813-4b6f-835e-70113ce7019c" />
-
 
 
 # CAMMU - V1
