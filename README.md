@@ -23,33 +23,22 @@ New Gate needs Slide nuts with these 12mm dummy slider spacers to keep nuts with
 
 ![WIN_20250929_01_24_08_Pro](https://github.com/user-attachments/assets/560bbdc8-5c72-4cf4-92b1-bbb4e54d005d)
 
+Made some changes to the original Gate, added bearings on the henges and made mounting in front , makes it easer to remove if need to be repaired. made some other minor changes too.
+
 ![WIN_20250929_23_52_04_Pro](https://github.com/user-attachments/assets/9394a5b5-c02b-4142-924f-41686dbe2c18)  ![WIN_20250930_00_02_21_Pro](https://github.com/user-attachments/assets/b650092a-18fe-4a59-91c8-4bf8301b7ce5)
 
 ![WIN_20250930_00_03_26_Pro](https://github.com/user-attachments/assets/512dfdc1-2d43-4661-9525-d4e775a3911f)  ![WIN_20250930_00_03_37_Pro](https://github.com/user-attachments/assets/87eb68cc-bba2-4314-a83e-1ec41bd7d67c)
 
-   
-
-
-
-
-
-
-Made some changes to the original Gate, added bearings on the henges and made mounting in front , makes it easer to remove if need to be repaired. made some other minor changes too.
 
 <img width="765" height="756" alt="image" src="https://github.com/user-attachments/assets/8a4fe7e6-5908-481c-b4ed-91a4c0ff2f8b" />
-
 
 You must use slider nuts instead of the hamer head nuts, so you will be able to hook the top. This also gave mor support for when the selector presses down to clamp filament.
 
 lead screw came off a old anycubic I3  P, 
 
-
 <img width="773" height="782" alt="image" src="https://github.com/user-attachments/assets/d09b37e0-8488-44d7-bbad-cbcd3f30f8c8" />
 
-
-
 <img width="946" height="700" alt="image" src="https://github.com/user-attachments/assets/8101622d-6813-4b6f-835e-70113ce7019c" />
-
 
 
 # CAMMU - V1
