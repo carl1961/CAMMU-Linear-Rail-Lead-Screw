@@ -1,7 +1,6 @@
-# CAMMU with Linear Rail Lead Screw
+# CAMMU with Linear Rail Lead Screw and front mounted customized CAMUU Gates
 
 <img width="1520" height="888" alt="CAMMU-Linear-Rail-Lead-Screw " src="https://github.com/user-attachments/assets/dfac483d-76f0-4050-a7f4-323708bbf56c" />
-
 
 First Thanks  to  camnefdt/CAMMU https://github.com/camnefdt/CAMMU   for his work and allowing us to have fun.
 
