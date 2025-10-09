@@ -21,6 +21,7 @@ Lead Screw 270mm
 Drill Bit Handles for hand drilling parts
 <img width="1520" height="838" alt="Drill Bit Handle v2" src="https://github.com/user-attachments/assets/262d1c8e-3407-4084-b6e6-f22006a5c449" />
 
+Needed to add PC4-M6 fitting for the Filamentalist Spool winder to work.
 ![Screenshot 2025-10-09 093540](https://github.com/user-attachments/assets/5f889118-6b86-4325-a101-9324f07866bd)
 
 ![Screenshot 2025-10-09 092926](https://github.com/user-attachments/assets/293ce47e-9eaf-4e76-a9e6-da03d5b4cce5)
