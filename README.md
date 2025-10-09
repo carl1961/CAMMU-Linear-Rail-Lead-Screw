@@ -1,5 +1,7 @@
 # CAMMU with Linear Rail Lead Screw and front mounted customized CAMUU Gates
 
+[CAMMU Facebook](https://www.facebook.com/groups/996841964765478)
+
 <img width="1520" height="888" alt="CAMMU-Linear-Rail-Lead-Screw " src="https://github.com/user-attachments/assets/dfac483d-76f0-4050-a7f4-323708bbf56c" />
 
 First Thanks  to  camnefdt/CAMMU https://github.com/camnefdt/CAMMU   for his work and allowing us to have fun.
@@ -16,6 +18,10 @@ Lead Screw 270mm
 
 [https://github.com/carl1961/CAMMU-Linear-Rail-Lead-Screw/blob/main/Customized%20Files/Cammu-Color%20Changer-Test.mp4](https://www.facebook.com/share/v/1BHCnjoqrM/)
 
+
+![Screenshot 2025-10-09 093540](https://github.com/user-attachments/assets/5f889118-6b86-4325-a101-9324f07866bd)
+
+![Screenshot 2025-10-09 092926](https://github.com/user-attachments/assets/293ce47e-9eaf-4e76-a9e6-da03d5b4cce5)
 
 ![WIN_20250928_00_52_30_Pro](https://github.com/user-attachments/assets/8f9821e5-7f48-49d0-b393-6762a8c5e251)
 
