@@ -16,7 +16,7 @@ Lead Screw 270mm
 
 <img width="1520" height="888" alt="Filamentalist_V3_CAMMU_Enclosue v19" src="https://github.com/user-attachments/assets/442c8496-75a4-4489-aacc-b19f30f2d7bc" />
 
-[https://github.com/carl1961/CAMMU-Linear-Rail-Lead-Screw/blob/main/Customized%20Files/Cammu-Color%20Changer-Test.mp4](https://www.facebook.com/share/v/1BHCnjoqrM/)
+[CAMMU-Linear-Rail-Lead-Screw Test](https://www.facebook.com/share/v/1BHCnjoqrM/)
 
 
 ![Screenshot 2025-10-09 093540](https://github.com/user-attachments/assets/5f889118-6b86-4325-a101-9324f07866bd)
